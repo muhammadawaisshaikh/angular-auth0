@@ -1,1 +1,4 @@
-<p>homepage works!</p>
+<div *ngIf="auth.user$ | async as user">
+    <h2>Welcome</h2>
+    <p>{{ user.email }}</p>
+</div>

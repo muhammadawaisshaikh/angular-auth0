@@ -21,3 +21,6 @@ Import the AuthService type from the SDK, and to create a login button using the
 The Auth0 Angular SDK helps you retrieve the profile information associated with logged-in users quickly in whatever component you need, such as their name or profile picture, to personalize the user interface. The profile information is available through the user$ observable exposed by the AuthService service.
 
 > implementation: homepage component
+
+# Youtube Tutorial
+https://youtu.be/TDaxfqcSroM
